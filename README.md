@@ -9,6 +9,10 @@
 
 - 🔭 I’m currently working on **Floor Cleaning**
 
+-  🌱 I’m currently learning **Next Js**
+
+- 💬 Ask me about **React**
+
 - 📫 How to reach me **raselhossaintro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
