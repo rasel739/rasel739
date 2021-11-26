@@ -31,5 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel739&" alt="rasel739" /></p>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rasel739" id="counter">
 </p>
