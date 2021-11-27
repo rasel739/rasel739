@@ -1,4 +1,4 @@
-(https://i.ibb.co/n8MNCvj/rasel-hossain-cover.png)
+<img src="https://i.ibb.co/n8MNCvj/rasel-hossain-cover.png"/>
 
 <h1 align="center">Hi 👋, I'm Rasel Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
