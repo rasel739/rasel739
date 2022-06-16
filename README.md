@@ -1,4 +1,4 @@
-![Rasel Hossain](https://i.ibb.co/n8MNCvj/rasel-hossain-cover.png)
+![Rasel Hossain](https://i.ibb.co/FJp7Jb9/Rasel-of-Linked-In-Pro-Cover.png)
 <h1 align="center">Hi 👋, I'm Rasel Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
