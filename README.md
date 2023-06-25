@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasel739" alt="rasel739" /></a> </p>
 
-- 🔭 I’m currently working on **Floor Cleaning project**
+- 🔭 I’m currently working on **University management system**
 
--  🌱 I’m currently learning **Next Js**
+-  🌱 I’m currently learning **Node js**
 
 - 💬 Ask me about **React**
 
