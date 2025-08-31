@@ -1,6 +1,6 @@
-![Rasel Hossain]([https://i.ibb.co/FJp7Jb9/Rasel-of-Linked-In-Pro-Cover.png](https://media.licdn.com/dms/image/v2/D4D16AQGJVev9v5ZxVg/profile-displaybackgroundimage-shrink_350_1400/B4DZjznsd1G8Ac-/0/1756433928076?e=1759363200&v=beta&t=2eR6EAZ8nIb_SRjtXmip7PcXxa4LaLtt0ug_Eb8eDIY))
+![Rasel Hossain]([https://i.ibb.co.com/DDpPpbMt/Rasel-of-Linked-In-Pro-Cover-1.png])
 <h1 align="center">Hi 👋, I'm Rasel Hossain</h1>
-<h3 align="center">A passionate javascript developer from Bangladesh</h3>
+<h3 align="center">A passionate Front-End Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel739&label=Profile%20views&color=0e75b6&style=flat" alt="rasel739" /> </p>
 
@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasel739" alt="rasel739" /></a> </p>
 
-- 🔭 I’m currently working on **University management system**
-
--  🌱 I’m currently learning **Node js**
-
-- 💬 Ask me about **React**
+- 🔭 I’m currently working on **Takoya University management system**
+- 
+- 💬 Ask me about **React Js , Next Js**
 
 - 📫 How to reach me **raselhossain6059@gmail.com**
 
