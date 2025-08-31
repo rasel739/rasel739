@@ -1,4 +1,4 @@
-![Rasel Hossain](https://i.ibb.co/FJp7Jb9/Rasel-of-Linked-In-Pro-Cover.png)
+![Rasel Hossain]([https://i.ibb.co/FJp7Jb9/Rasel-of-Linked-In-Pro-Cover.png](https://media.licdn.com/dms/image/v2/D4D16AQGJVev9v5ZxVg/profile-displaybackgroundimage-shrink_350_1400/B4DZjznsd1G8Ac-/0/1756433928076?e=1759363200&v=beta&t=2eR6EAZ8nIb_SRjtXmip7PcXxa4LaLtt0ug_Eb8eDIY))
 <h1 align="center">Hi 👋, I'm Rasel Hossain</h1>
 <h3 align="center">A passionate javascript developer from Bangladesh</h3>
 
