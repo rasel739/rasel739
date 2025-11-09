@@ -1,7 +1,7 @@
 ![Rasel Hossain](https://i.ibb.co.com/4whRX1ZX/Rasel-of-Linked-In-Pro-Cover-3.png)
 
 <h1 align="center">👋 Hi, I'm Rasel Hossain</h1>
-<h3 align="center">🚀 Front-End Developer | React.js & Next.js Enthusiast | From Bangladesh 🇧🇩</h3>
+<h3 align="center">🚀 Frontend Developer | Frontend Engineer | MERN Stack | React js | Next js | React Native | Web Developer | From Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <a href="https://github.com/rasel739">
@@ -22,23 +22,17 @@
 
 ### 🌟 Featured Projects
 
-#### 🎓 [Takoya University Management System](https://github.com/rasel739/takoya-university)
+####  [Takoya University Management System](https://github.com/rasel739/takoya-university)
 > A complete web app for managing students, teachers, courses, and results.
 - 🧩 **Tech Stack:** Next.js, Node.js, Prisma, PostgreSQL, TailwindCSS  
 - 🔐 Includes: Authentication, Admin Dashboard, and Role-based Access  
-- 🚀 Status: In Development  
+- 🚀 Status: Complete  
 
-#### 🛒 [E-Book Commerce Platform](https://github.com/rasel739/ebook-store)
-> Full-stack e-commerce app for buying and reading digital books online.
-- 🧩 **Tech Stack:** Next.js, Express.js, Prisma, PostgreSQL, Stripe, TailwindCSS  
-- 💳 Integrated payment system with secure checkout flow  
-- 📚 Includes: Product Management, Search, Cart, and Order History  
-
-#### 📝 [Personal Portfolio Website](https://github.com/rasel739/portfolio)
-> A responsive personal portfolio to showcase my projects and skills.
-- 🧩 **Tech Stack:** Next.js, Framer Motion, TailwindCSS  
-- ⚡ Fast, SEO optimized, and mobile-friendly design  
-
+####  [Personal Expense Tracker](https://github.com/rasel739/personal-expense-tracker-frontend)
+> A modern, full-stack expense tracking application.
+- 🧩 **Tech Stack:** Next.js, Express.js, Prisma, PostgreSQL, TailwindCSS  
+- 🚀 Status: Complete
+  
 ---
 
 ### 🧠 Currently Learning
@@ -50,7 +44,7 @@
 ---
 
 ### 🎯 Career Goals – 2025
-- ✅ Build and deploy **3+ full-stack production-grade apps**
+- ✅ Build and deploy **1+ full-stack production-grade apps**
 - 🧩 Contribute to **open-source React/Next.js projects**
 - 🌍 Land a **remote front-end developer role** with global teams
 - 🧠 Learn **TypeScript**, **GraphQL**, and **CI/CD pipelines**
@@ -61,10 +55,9 @@
 ### 🏅 Certifications
 | Platform | Course Title | Status |
 |-----------|---------------|--------|
-| 🧑‍💻 freeCodeCamp | Responsive Web Design | ✅ Completed |
-| 🎓 Udemy | React.js – The Complete Guide | ✅ Completed |
-| 💼 Coursera | Front-End Web Development with React | ✅ Completed |
-| 🌐 YouTube | Next.js Full-Stack Projects (Practical) | 🕓 Ongoing |
+| 🧑‍💻 Programming Hero | Next Level Web Development Course | ✅ Completed |
+| 🎓 Learn with Sumit | Think in a Redux way Course | ✅ Completed |
+
 
 ---
 
@@ -100,9 +93,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/rasel-hossain739/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100036753638268" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
 </p>
 
