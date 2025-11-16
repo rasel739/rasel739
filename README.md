@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working on **Takoya University Management System**
+- 💼 Currently working on **Personal Expense Tracker**
 - 🌱 Learning **Full-Stack Development** using **Next.js, Prisma, Express, PostgreSQL**
 - 💬 Ask me about **React.js, Next.js, REST APIs, and Front-End Architecture**
 - 🎯 Goal: To build **modern, high-performance, and scalable web applications**
